@@ -1,3 +1,7 @@
-Hellótok :)
-
-Ez egy python  ----->
+"""
+Projekt munka
+Készítő:
+Koch Nikoletta
+Budai Ákos
+Buzási Gergő
+"""
